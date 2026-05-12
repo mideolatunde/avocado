@@ -16,10 +16,8 @@ There are multiple models that predict the price of avocadoes and multiple model
 * [Exploratory Data Analysis](#-exploratory-data-analysis)
 * [Model Performance](#-model-performance)
 * [Key Insights](#-key-insights)
-* [Visualizations](#-visualizations)
 * [Learning Outcomes](#-learning-outcomes)
 * [How to Run the project](#-how-to-run-the-project)
-* [Repository Structure](#-repository-structure)
 * [License](#-license)
 * [Contact](#-contact)
 
@@ -118,7 +116,7 @@ Models were evaluated using:
 - For Avocado Type Classification
 | Model Name | Accuracy Score | F1 Score | Recall Score | Precision Score |
 | --- | --- | --- | --- | --- | --- | --- |
-| Logistic Regression + PCA | 0.90 | 0.90 | 0.87; 0, 0.93;1 | 0.92;0, 0.88;1 |
+| Logistic Regression + PCA | 0.90 | 0.90 | 0.90 | 0.90 |
 
 
 ## 🔍 Key Insights
