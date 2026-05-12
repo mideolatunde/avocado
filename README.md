@@ -115,7 +115,7 @@ Models were evaluated using:
 
 - For Avocado Type Classification
 | Model Name | Accuracy Score | F1 Score | Recall Score | Precision Score |  
-| --- | --- | --- | --- | --- | --- | --- |  
+| --- | --- | --- | --- | --- | 
 | Logistic Regression + PCA | 0.90 | 0.90 | 0.90 | 0.90 |  
 
 
