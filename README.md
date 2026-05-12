@@ -107,13 +107,13 @@ Models were evaluated using:
 - The TotalUS and the West purchase the most avocadoes.   
 
 ## &#127942; Model Performance  
-- For Price Prediction:   
+- For Price Prediction:     
 | Model Name | R2 Score | RMSE |   
-| ------------ | --------- | -------- |  
+| ------------ | --------- | --------------- |  
 | Linear Regression | 0.315851 | 0.070294 |     
 | Seasonal ARIMA | 0.386083	| 0.580103  |  
 
-- For Avocado Type Classification
+- For Avocado Type Classification   
 | Model Name | Accuracy Score | F1 Score | Recall Score | Precision Score |  
 | ------------ | ------------- | --------- | ------------ | ------------- |   
 | Logistic Regression + PCA | 0.90 | 0.90 | 0.90 | 0.90 |  
