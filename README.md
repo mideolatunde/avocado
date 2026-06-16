@@ -53,7 +53,7 @@ Type of Avocado
 
 - `numpy` - Numerical analysis
 
-- `matplotlib & seaborn` – Data Visualization
+- `plotnine, matplotlib & seaborn` – Data Visualization
 
 - `scikit-learn (Logistic Regression, Linear Regression, PCA)` - Machine Learning
 
